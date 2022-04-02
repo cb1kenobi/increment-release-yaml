@@ -1,6 +1,6 @@
-import fs from 'fs';
-import semver from 'semver';
-import yaml from 'js-yaml';
+const fs = require('fs');
+const semver = require('semver');
+const yaml = require('js-yaml');
 
 const version = process.argv[2];
 const releaseFile = process.argv[3];

@@ -1,6 +1,6 @@
 {
   "name": "@cb1kenobi/increment-release-yaml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Increments versions in release.yml GitHub workflow",
   "main": "index.js",
   "bin": {
